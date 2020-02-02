@@ -2,4 +2,4 @@
 
 
 
-![](Resume - Aziz Alshohati.pdf)
+
