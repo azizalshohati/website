@@ -2,4 +2,4 @@
 
 
 
-Resume - Aziz Alshohati.pdf
+![](Resume - Aziz Alshohati.pdf)
