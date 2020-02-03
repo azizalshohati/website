@@ -60,7 +60,7 @@ img{
   border: none;
   border-top: none;
   text-align: center;
-  -webkit-keyframes fadeEffect 2s;
+  -webkit-keyframes: fadeEffect 2s;
   animation: fadeEffect 2s;
 }
 
