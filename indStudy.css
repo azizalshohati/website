@@ -34,7 +34,7 @@ img{
   color: white;
   float: left;
   border: none;
-  outline: 2px solid grey;
+  outline: 2px solid white;
   cursor: pointer;
   padding: 16px 32px;
   width: 33.3%;
@@ -73,3 +73,10 @@ img{
   from {opacity: 0;}
   to {opacity: 2;}
 }
+
+
+
+
+
+
+
