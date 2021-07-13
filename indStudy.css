@@ -1,7 +1,13 @@
 html{
+  height: 100%;
+  margin: 0;
   scroll-behavior: smooth;
   font-family: Arial, Helvetica, sans-serif;
   overflow: scroll;
+}
+body{
+  height: 100%;
+  margin: 0;
 }
 
 html::-webkit-scrollbar{
@@ -17,31 +23,41 @@ html::-webkit-scrollbar{
 } */
 
 .hero-image{
-  background-image: url("WebPic.jpg");
-  height: 1000px;
-  background-position: 50% 30%;
+  background-image: url("Picture.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  height: 100%;
+  width: 100%;
+  margin-top: 0;
 }
 
 .hero-text {
   color: rgba(200, 205, 214, 0.767);
+  
 }
 
 .hello{
-  color: black;
+  color: white;
+  left: 0%;
 }
 
 .name{
-  color: green;
-  position: relative;
-  text-align: right;
-  top: 0;
-  right: 0;
-
+  color: white;
 }
 
 body {
   background-color: rgba(0, 0, 0, 0.877);
+}
+
+.about-me{
+  color: yellow;
+  font-size: larger;
+  text-align: center;
+  background-image: -webkit-linear-gradient(45deg, green, black);
+}
+
+.resume{
+  text-align: center;
 }
